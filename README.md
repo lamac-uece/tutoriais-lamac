@@ -1,7 +1,6 @@
 <h1>Laboratório de Matemática Computacional - LaMaC</h1>
 <h3>Universidade Estadual do Ceará - UECE</h3>
 
-
 ---
 <h2>Tutoriais - LaMaC</h2>
 
