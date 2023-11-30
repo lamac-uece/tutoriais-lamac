@@ -1,0 +1,4 @@
+As bases de dados utilizadas neste módulo devem ser salvas num diretório chamado "datasets", e podem ser encontradas nos links abaixo:
+
+> The ORL Database of Faces
+Link: https://www.kaggle.com/datasets/tavarez/the-orl-database-for-training-and-testing
