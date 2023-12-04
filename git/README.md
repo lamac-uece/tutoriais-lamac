@@ -1,11 +1,11 @@
-<h1>Laboratório de Matemática Computacional - LaMaC</h1>
-<h3>Universidade Estadual do Ceará - UECE</h3>
+<h1 align="center">Laboratório de Matemática Computacional - LaMaC</h1>
+<h3 align="center">Universidade Estadual do Ceará - UECE</h3>
 
 ---
 
-<h2>Introdução ao Git</h2>
+<h2 align="center">Tutorial de Git/GitHub</h2>
 
-Este tutorial tem como finalidade ensinar princípios básicos de git.
+<p align="center">Este tutorial tem como finalidade ensinar princípios básicos de Git e GitHub.</p>
 
 ---
 

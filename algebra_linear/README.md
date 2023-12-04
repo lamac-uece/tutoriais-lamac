@@ -1,23 +1,12 @@
-<h2 align="center">Tutoriais LaMaC - Álgebra linear</h2>
+<h1 align="center">Laboratório de Matemática Computacional - LaMaC</h1>
+<h3 align="center">Universidade Estadual do Ceará - UECE</h3>
 
-Este módulo contém tutoriais de Álgebra Linear e suas aplicações computacionais.
+---
 
-A ordem recomendada para estudo dos tutoriais é:
+<h2 align="center">Tutoriais de Álgebra Linear</h2>
 
-1. **Sistemas de Equações Lineares**: `sistemas_eq_lineares.ipynb`
+<div align="center">
+  <p style="max-width: 40%; text-align: center;">Este módulo contém arquivos de Jupyter Notebook com implementações computacionais de Álgebra Linear e suas aplicações.</p>
+</div>
 
-2. **Método de Gauss-Jordan**: `gauss_jordan.ipynb`
-
-3. **Espaços Vetoriais**: `espacos_vetoriais.ipynb`
-
-4. **Ortogonalidade**: `ortogonalidade.ipynb`
-
-5. **Mínimos Quadrados**: `minimos_quadrados.ipynb`
-
-6. **Determinantes**: `determinantes.ipynb`
-
-7. **Autovalores e autovetores**: `autovalores_e_autovetores.ipynb`
-
-8. **SVD e PCA**: `svd_e_pca.ipynb`
-
-9. **Transformações Lineares**: `transformacoes_lineares.ipynb`
+---
