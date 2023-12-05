@@ -13,12 +13,8 @@ Caso deseje ver fora do GitHub, [clone este repositório](https://docs.github.co
 ## Tutoriais
 
 - [Python](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/python)
-  - Python básico (Em construção)
-  - Orientação a objetos em Python (Em construção)
+  - [Python básico](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/python/python_basico.ipynb)
   - [Ambientes virtuais Python](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/python/python-venv)
-  - Estrutura de projetos Python (Em construção)
-  - Documentação com Docstrings (Em construção)
-  - PEP 8 - Padrões de nomenclatura e boas práticas (Em construção)
   - Visualização de dados com Matplotlib (Em construção)
   - Python científico com NumPy (Em construção)
 
@@ -30,7 +26,7 @@ Caso deseje ver fora do GitHub, [clone este repositório](https://docs.github.co
   - Mínimos Quadrados (Em construção)
   - Determinantes (Em construção)
   - Autovalores e autovetores (Em construção)
-  - SVD e PCA (Em construção)
+  - [SVD e PCA](https://github.com/lamac-uece/tutoriais-lamac/blob/main/algebra_linear/svd_e_pca.ipynb)
   - Transformações Lineares (Em construção)
 
 - [Processamento de Imagens](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/processamento_de_imagens)
