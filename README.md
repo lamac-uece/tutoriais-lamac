@@ -34,7 +34,7 @@ Caso deseje ver fora do GitHub, [clone este repositório](https://docs.github.co
   - Transformações Lineares (Em construção)
 
 - [Processamento de Imagens](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/processamento_de_imagens)
-  - Morfologia Matemática (Em construção)
+  - [Morfologia Matemática](https://github.com/lamac-uece/tutoriais-lamac/blob/main/processamento_de_imagens/morfologia_matematica.ipynb)
   - Adaptação de histograma (Em construção)
   - OpenCV (Em construção)
 
