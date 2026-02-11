@@ -16,7 +16,7 @@ Caso deseje ver fora do GitHub, [clone este repositório](https://docs.github.co
   - [Python básico](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/python/python_basico.ipynb)
   - [Ambientes virtuais Python](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/python/python-venv)
   - [Visualização de dados com Matplotlib](https://github.com/lamac-uece/tutoriais-lamac/blob/main/python/python_matplotlib.ipynb)
-  - Python científico com NumPy (Em construção)
+  - Python científico com NumPy e Pandas (Em construção)
 
 - [Álgebra linear](https://github.com/LAMAC-UECE/tutoriais-lamac/tree/main/algebra_linear)
   - Sistemas de Equações Lineares (Em construção)
